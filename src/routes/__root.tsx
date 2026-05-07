@@ -9,6 +9,7 @@ import {
 } from "@tanstack/react-router";
 
 import appCss from "../styles.css?url";
+import { MobileShell } from "@/components/zine/MobileShell";
 
 function NotFoundComponent() {
   return (
